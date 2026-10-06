@@ -1,0 +1,20 @@
+# 构建产物
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# CubeMX / 编辑器
+.mxproject
+.vscode/
+*.jdebug
+*.jdebug.user
+
+# 文档与图片
+docs/
+
+# 系统
+Thumbs.db
+desktop.ini
+~$*
